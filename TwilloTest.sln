@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TwilloTest", "TwilloTest\TwilloTest.njsproj", "{04ADBC4E-AD21-453C-B475-9672021793DB}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SMSTest", "SMSTest\SMSTest.vbproj", "{B49D77B7-13EA-45B7-9011-435DA2638BC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{04ADBC4E-AD21-453C-B475-9672021793DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04ADBC4E-AD21-453C-B475-9672021793DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04ADBC4E-AD21-453C-B475-9672021793DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49D77B7-13EA-45B7-9011-435DA2638BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49D77B7-13EA-45B7-9011-435DA2638BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49D77B7-13EA-45B7-9011-435DA2638BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49D77B7-13EA-45B7-9011-435DA2638BC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
